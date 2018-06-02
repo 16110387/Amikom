@@ -1,0 +1,173 @@
+.result{
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.yusril{
+	margin-top: 80px;
+	background-color: white;
+	color: black;
+}
+.header{
+	width: 1024px;
+	height: 130px;
+	background-color: red;
+	margin: 0 auto;
+	color: white;
+	padding-top: 30px;
+	background-image: url("img/header.jpg");
+}
+.header2{
+	width: 100%;
+	height: 120px;
+	background-color: grey;
+}
+.header h1{
+	text-align: center;
+}
+.header h2{
+	text-align: center;
+}
+.menu{
+	width: 1024px;
+	height: 1000px;
+	background-color:grey;
+	margin: 30px auto;
+}
+.topheader{
+	width: 100%;
+	height: 150px;
+	margin-bottom: 20px;
+}
+
+.logo{
+	float: left;
+	width: 20%;
+	height: 100%;
+}
+
+.logo img{
+	padding-left: 20px;
+	height: 100%;
+}
+
+.quotes{
+	float: left;
+	width: 80%;
+	height: 100%;
+}
+
+.sosmed{
+	width: 15px;
+	margin-right: 5px;
+}
+
+table{
+	margin-left: 10%;
+}
+td{
+	padding-left: 10px;
+	padding-right: 30px;
+}
+
+.botheader{
+
+	width: 100%;
+	height: 150px;
+	background-image: url("img/headerbg.png");
+	margin-bottom: 20px;
+	text-align: center;
+	padding-top: 40px;
+	color: white;
+}
+
+.container{
+	width: 100%;
+	height: 500px;
+	background-color: #dbdbdb;
+	padding-top: 20px;
+}
+.konten{
+	text-align: center;
+}
+
+.img-left, .img-mid, .img-right{
+	display: block;
+	text-align: center;
+	width: 90%;
+	margin: auto;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	padding-top: 10px;
+}
+
+.left{
+	background-color: white;
+	float: left;
+	width: 28%;
+	height: 350px;
+	margin-left: 60px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.mid{
+	background-color: white;
+	float: left;
+	width: 28%;
+	height: 350px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.right{
+	background-color: white;
+	float: left;
+	width: 28%;
+	height: 350px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.desc{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.footer{
+	color: white;
+	padding-top: 10px;
+	text-align: center;
+	width: 100%;
+	height: 250px;
+	background-color: #696969;
+	margin: auto;
+}
+
+.submit{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.footer2{
+	height: 40px;
+	background-color: silver;
+}
+.footer2 .copy {
+	padding: 10px;
+	text-align: center;
+	
+}
+
